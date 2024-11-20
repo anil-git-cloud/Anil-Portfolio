@@ -1,4 +1,4 @@
-import Resume from "../assets/Anil's Resume.pdf";
+import Resume from "../assets/Anil Resume.pdf";
 
 export const CTA = () => {
   return (

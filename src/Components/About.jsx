@@ -1,17 +1,7 @@
-// import { useEffect } from "react";
 import "./about.css";
 import ME from "../assets/Me.jpg";
-// import AOS from "aos";
-// import "aos/dist/aos.css";
 
 const About = () => {
-  //   useEffect(() => {
-  //     AOS.init({
-  //       offset: 100,
-  //       duration: 800
-  //     });
-  //   }, []);
-
   return (
     <section id="about">
       <h5>Get To Know</h5>
@@ -45,9 +35,3 @@ const About = () => {
 };
 
 export default About;
-// - React.js | JavaScript/TypeScript | HTML | CSS | Express | Node
-// - React.js Developer/Frontend Developer and currently learning MERN stack web development.
-// - I'm a code enthusiast that enjoys experimenting with new technologies and building web apps.
-// - When I am not working/coding I usually spend my time sketching and art.
-// - You can look at my art. <3 : https://www.instagram.com/letmedraw_you/
-// - Currently looking for a remote job as a Frontend Developer role around the world.
