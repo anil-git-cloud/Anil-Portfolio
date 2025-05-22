@@ -65,7 +65,7 @@ const Experience = () => {
                 <h4>Github</h4>
               </div>
             </article>
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>Redux-Toolkit</h4>
@@ -76,7 +76,7 @@ const Experience = () => {
               <div>
                 <h4>ES6</h4>
               </div>
-            </article>
+            </article> */}
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
@@ -113,18 +113,18 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Build advanced React JS Frontend</h4>
-                <small className="text-light">Certified : </small>
+                <h4>CodSoft Internship Certificate - Web Developer</h4>
+                {/* <small className="text-light">Certified : </small> */}
               </div>
             </article>
 
-            <article className="experience__details">
+            {/* <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
                 <h4>JavaScript </h4>
                 <small className="text-light">Certified : </small>
               </div>
-            </article>
+            </article> */}
           </div>
         </div>
       </div>
