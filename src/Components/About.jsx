@@ -15,10 +15,12 @@ const About = () => {
         </div>
         <div className="about__content" data-aos="slide-up">
           <p>
-            Hey there! I am a final-year BSc student at RD National College,
-            Mumbai. Deeply interested in Web Development. I am skilled in
-            React.js and Frontend Development. Currently, I am exploring MERN
-            Stack Development. <br />
+            Hi! I’m Anil, a frontend developer who loves turning ideas into
+            interactive, visually appealing web experiences. With a focus on
+            clean code and user-centric design, I build apps using React.js, and
+            modern JavaScript tools. Whether it’s crafting a smooth search
+            feature or optimizing load performance, I’m always aiming to level
+            up my skills and create impactful projects. <br />
             My projects involve creating both functional and good-looking web
             applications. <br />
             <br />I am eager to contribute my expertise to impactful projects
